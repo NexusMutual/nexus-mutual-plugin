@@ -1,6 +1,6 @@
 {
   "name": "nexus-mutual",
-  "description": "Nexus Mutual cover advisor — tools for products, pricing, capacity, cover terms, and claims history, plus guided workflows for cover sizing and term explanations.",
+  "description": "Nexus Mutual — tools for cover products, pricing, capacity, terms, claims history, plus guided workflows for cover sizing and term explanations.",
   "version": "1.1.0",
   "category": "defi",
   "author": { "name": "Nexus Mutual" },

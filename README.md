@@ -11,7 +11,7 @@ Add the marketplace, then install the plugin:
 /plugin install nexus-mutual@nexus-mutual
 ```
 
-Once installed, the MCP tools are available automatically and skills activate based on context — ask about cover products and the cover advisor kicks in, ask about claims history and the claims analysis skill takes over.
+Once installed, the MCP tools are available automatically and skills activate based on context — ask about cover products and the products skill kicks in, ask about claims history and the claims skill takes over.
 
 ### Skills
 
