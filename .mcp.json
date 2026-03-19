@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "nexus-mutual": {
+      "url": "https://api.staging.nexusmutual.io/mcp"
+    }
+  }
+}
