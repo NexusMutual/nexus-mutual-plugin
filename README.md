@@ -17,8 +17,8 @@ Once installed, the MCP tools are available automatically and skills activate ba
 
 | Skill | Activates when |
 |-------|---------------|
-| `/nexus-mutual:cover-advisor` | Asking about cover products, pricing, what's covered/excluded, vault protection |
-| `/nexus-mutual:claims-analysis` | Asking about claims history, approval rates, payout amounts, claims for a product |
+| `/nexus-mutual:products` | Asking about cover products, pricing, what's covered/excluded, vault protection |
+| `/nexus-mutual:claims` | Asking about claims history, approval rates, payout amounts, claims for a product |
 
 ### Tools
 

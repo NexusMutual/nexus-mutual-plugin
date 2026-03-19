@@ -1,5 +1,5 @@
 ---
-name: cover-advisor
+name: products
 description: "Use when users ask about Nexus Mutual cover products, pricing, what's covered, what's excluded, or how claims work. Also use when users share vault URLs, protocol names, or ask about protecting DeFi positions."
 ---
 

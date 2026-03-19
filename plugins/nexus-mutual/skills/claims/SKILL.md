@@ -1,5 +1,5 @@
 ---
-name: claims-analysis
+name: claims
 description: "Use when users ask about Nexus Mutual claims history, claim statistics, approval/denial rates, payout amounts, or want to analyze past claims for a product or time period."
 ---
 

@@ -1,0 +1,15 @@
+{
+  "name": "nexus-mutual",
+  "displayName": "Nexus Mutual",
+  "description": "Cover products and claims analysis tools for Nexus Mutual",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nexus Mutual"
+  },
+  "homepage": "https://github.com/NexusMutual/nexus-mutual-plugin",
+  "repository": "https://github.com/NexusMutual/nexus-mutual-plugin",
+  "license": "MIT",
+  "keywords": ["defi", "insurance", "cover", "claims", "nexus-mutual"],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
