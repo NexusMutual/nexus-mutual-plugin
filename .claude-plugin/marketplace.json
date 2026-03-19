@@ -1,0 +1,17 @@
+{
+  "name": "nexus-mutual",
+  "owner": {
+    "name": "Nexus Mutual"
+  },
+  "plugins": [
+    {
+      "name": "nexus-mutual",
+      "source": "./plugins/nexus-mutual",
+      "description": "Cover advisor — tools for products, pricing, capacity, cover terms, claims history, plus guided workflows for cover sizing and term explanations.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nexus Mutual"
+      }
+    }
+  ]
+}

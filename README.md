@@ -4,8 +4,11 @@ A [Claude Code plugin](https://code.claude.com/docs/en/plugins) that bundles the
 
 ## Install (Claude Code)
 
-```bash
-claude plugin install /path/to/nexus-mutual-plugin
+Add the marketplace, then install the plugin:
+
+```
+/plugin marketplace add https://github.com/NexusMutual/nexus-mutual-plugin.git
+/plugin install nexus-mutual@nexus-mutual
 ```
 
 Once installed, the MCP tools are available automatically and skills activate based on context — ask about cover products and the cover advisor kicks in, ask about claims history and the claims analysis skill takes over.
@@ -36,7 +39,13 @@ If you're not using Claude Code, you can connect to the MCP server directly.
 
 ### Claude Desktop
 
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS):
+Claude Desktop supports marketplaces via **Settings > Plugins > Add marketplace by URL**:
+
+```
+https://github.com/NexusMutual/nexus-mutual-plugin.git
+```
+
+Alternatively, add the MCP server directly to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS):
 
 ```json
 {
