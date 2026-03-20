@@ -56,10 +56,18 @@ When explaining cover terms:
 3. Always mention the membership + KYC requirement.
 4. Pricing is dynamic — quotes reflect current demand and may change.
 
+## Products vs Product Types
+
+**Product types** define the cover category and shared legal terms — e.g. "Protocol Cover", "Custody Cover", "Leveraged Liquidation Cover". Each product type has one cover wording, claim timing rules, commission settings, and terms & conditions. Think of it as the template.
+
+**Products** are individual listings under a product type — e.g. "Aave v3" is a product under "Protocol Cover". Each product has its own name, pricing, capacity, cover assets, and optionally an annex (with covered vaults, tokens, thresholds specific to that product).
+
+In practice: users buy cover on a **product**, but the cover wording and claim rules come from its **product type**.
+
 ## Tools
 
 - `list_products` — find products by name/type
-- `get_product_details` — product info, cover assets, claim timing, annex hash
+- `get_product_details` — product info, cover assets, claim timing, annex hash, commission
 - `get_quote` — current premium pricing
 - `get_capacity` — available cover amount
 - `get_cover_wording` — full cover terms (legal doc shared across product type)
