@@ -13,16 +13,7 @@ Works with **Claude Code**, **Cursor**, and **Claude Desktop**.
 
 ## Tools
 
-| Tool | Description |
-|------|-------------|
-| `list_products` | Browse and search all available cover products |
-| `get_product_details` | Product info, supported cover assets, annex hash, commission |
-| `get_quote` | Real-time premium pricing for a given amount and period |
-| `get_capacity` | Available cover capacity and utilization |
-| `get_cover_wording` | Full cover terms (the main legal document for a product type) |
-| `get_product_annex` | Product-specific details: covered vaults, tokens, thresholds, sub-limits |
-| `get_wallet_positions` | Wallet DeFi positions via DeBank for cover sizing |
-| `query_claims` | Query historical closed claims with filters (verdict, product, date range) |
+See the [MCP server repo](https://github.com/NexusMutual/nexus-mutual-mcp) for the full list of tools and configuration options.
 
 ## Install
 
