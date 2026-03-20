@@ -79,7 +79,6 @@ Note: Claude Desktop and Cursor get the MCP tools but not the skills. For the fu
 
 - [Nexus Mutual App](https://app.nexusmutual.io) — Buy cover
 - [Nexus Mutual MCP Server](https://github.com/NexusMutual/nexus-mutual-mcp) — Source code for the MCP server
-- [Nexus Mutual Skills](https://github.com/NexusMutual/nexus-mutual-skills) — Standalone skills (for use without the plugin)
 
 ## License
 
