@@ -1,0 +1,17 @@
+{
+  "name": "nexus-mutual",
+  "owner": {
+    "name": "Nexus Mutual"
+  },
+  "plugins": [
+    {
+      "name": "nexus-mutual",
+      "source": ".",
+      "description": "Cover products and claims analysis tools for Nexus Mutual",
+      "version": "1.2.0",
+      "author": {
+        "name": "Nexus Mutual"
+      }
+    }
+  ]
+}
