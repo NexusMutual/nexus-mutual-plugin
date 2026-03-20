@@ -44,7 +44,7 @@ Clone and symlink into the local plugins directory:
 
 ```bash
 git clone https://github.com/NexusMutual/nexus-mutual-plugin.git
-ln -s "$(pwd)/nexus-mutual-plugin" ~/.cursor/plugins/local/nexus-mutual
+ln -s "$(pwd)/nexus-mutual-plugin/nexus-mutual" ~/.cursor/plugins/local/nexus-mutual
 ```
 
 Restart Cursor. Skills appear in **Settings > Rules > Agent Decides** and are invocable via `/nexus-mutual:products` and `/nexus-mutual:claims`.

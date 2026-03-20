@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "nexus-mutual",
-      "source": ".",
+      "source": "nexus-mutual",
       "description": "Cover products and claims analysis tools for Nexus Mutual",
       "version": "1.2.0",
       "author": {
